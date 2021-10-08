@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -7,6 +6,6 @@
         <link rel="stylesheet" href="">
     </head>
     <body>        
-        <p>testing</p>
+        <p color="yellow">testing</p>
     </body>
 </html>
