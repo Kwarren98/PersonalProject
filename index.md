@@ -6,6 +6,6 @@
         <link rel="stylesheet" href="">
     </head>
     <body>        
-        <p color="yellow">testing</p>
+        <p style="color:yellow">testing</p>
     </body>
 </html>
